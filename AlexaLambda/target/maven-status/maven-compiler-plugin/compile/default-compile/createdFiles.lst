@@ -1,0 +1,13 @@
+Handlers\AvailableDatasetRequestHandler.class
+Handlers\AvailableFieldRequestHandler.class
+Alexa\AlexaStreamHandler.class
+Constants\LambdaConstants.class
+Handlers\LaunchRequestHandler.class
+Handlers\AvailableIDRequestHandler.class
+Handlers\TestRequestHandler.class
+Handlers\AlexaRequestHandler.class
+Database\DynamoDBImpl.class
+Constants\AlexaConstants.class
+Handlers\DatasetRequestHandler.class
+Handlers\ExitSkillHandler.class
+Handlers\ChatRequestHandler.class

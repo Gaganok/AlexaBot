@@ -1,0 +1,13 @@
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Handlers\LaunchRequestHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Constants\LambdaConstants.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Alexa\AlexaStreamHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Handlers\ChatRequestHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Handlers\ExitSkillHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Handlers\AlexaRequestHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Handlers\AvailableFieldRequestHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Handlers\TestRequestHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Handlers\DatasetRequestHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Handlers\AvailableDatasetRequestHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Constants\AlexaConstants.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Handlers\AvailableIDRequestHandler.java
+C:\FYP\LexLambda\AlexaLambda\src\main\java\Database\DynamoDBImpl.java
